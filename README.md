@@ -30,7 +30,7 @@ Software Developer with 6+ years of experience, based in the UK. I build scalabl
 - Expanding into Java Spring Boot and data engineering tooling
 - I enjoy building end-to-end systems — from REST APIs to full-stack web apps
 - Comfortable working across backend, frontend, and cloud infrastructure
-- Reach me on [LinkedIn](https://linkedin.com/in/your-profile)
+- Reach me on [LinkedIn](https://www.linkedin.com/in/daniyal-sohail/)
 
 ---
 
