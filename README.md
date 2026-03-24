@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Daniyal 👋
+Software Developer with 6+ years of experience, based in the UK. I build scalable, production-ready full-stack applications across the JavaScript ecosystem and beyond.
 
-<!--
-**daniyalsohail0/daniyalsohail0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack
+Frontend
 
-Here are some ideas to get you started:
+JavaScript, TypeScript
+React, Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend
+
+Node.js, Express
+Python, FastAPI
+Java, Spring Boot
+
+Databases
+
+SQL, NoSQL
+
+Cloud & DevOps
+
+AWS
+Docker, Kubernetes
+
+
+About Me
+
+Currently working as a Software Developer in the UK
+Expanding into Java Spring Boot and data engineering tooling
+I enjoy building end-to-end systems — from REST APIs to full-stack web apps
+Comfortable working across backend, frontend, and cloud infrastructure
+Reach me on LinkedIn
+
+
+Notable Work
+
+Built production-grade integrations with Salesforce via OAuth, using Redis token caching and retry logic
+Designed and shipped a Stripe payments platform with off-session payments, 3DS handling, and idempotency
+Architected full-stack applications using Next.js + Node.js/Express with clean API boundaries
+
+
+Always building. Always learning.
